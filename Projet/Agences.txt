@@ -1,0 +1,4 @@
+ID				Nom				Adresse				Telephone				Email
+1				Banque de test				Adresse de test				123456789				banque1@gmail.com
+2				Banque de test 2				Adresse de test 2				987654321				banque2@gmail.com
+3				Banque de France				Paris				01 02 03 04 05				banque3@gmail.com

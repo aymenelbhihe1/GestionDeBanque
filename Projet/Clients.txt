@@ -1,0 +1,6 @@
+ID				Nom				Prenom				Login				Mdp				Email				Adresse				Telephone				CIN				Sexe
+1				Dupont				Jean				jdupont				mdp1234				jdupont@email.com				12 Rue des Lilas				0123456789				1234567890123				HOMME
+2				Martin				Marie				mmartin				mdp5678				mmartin@email.com				27 Avenue de la République				0234567890				2345678901234				FEMME
+3				Dubois				Pierre				pdubois				mdpabcd				pdubois@email.com				8 Rue du Paradis				0345678901				3456789012345				FEMME
+4				Lefebvre				Julie				jlefebvre				mdpefgh				jlefebvre@email.com				5 Rue de la Liberté				0456789012				4567890123456				HOMME
+5				Robert				Luc				lrobert				mdpijkl				lrobert@email.com				19 Avenue des Champs-Élysées				0567890123				5678901234567				FEMME
